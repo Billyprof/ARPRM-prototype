@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Reports" language="en" table="x_844314_arprm_reports">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Reports</label>
+            <language>en</language>
+            <name>x_844314_arprm_reports</name>
+            <plural>Reports</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-08 18:52:23</sys_created_on>
+            <sys_id>de5b37ff07411110609af0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Reports</sys_name>
+            <sys_package display_value="ARPRM" source="x_844314_arprm">c5ef1bb707011110609af0269c1ed037</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARPRM">c5ef1bb707011110609af0269c1ed037</sys_scope>
+            <sys_update_name>sys_documentation_x_844314_arprm_reports__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-08 18:52:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

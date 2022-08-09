@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_844314_arprm.admin" name="x_844314_arprm.admin">c9ef1bb707011110609af0269c1ed03d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-08 16:52:26</sys_created_on>
+        <sys_id>99ef1bb707011110609af0269c1ed03f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c9ef1bb707011110609af0269c1ed03d</sys_name>
+        <sys_package display_value="ARPRM" source="x_844314_arprm">c5ef1bb707011110609af0269c1ed037</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARPRM">c5ef1bb707011110609af0269c1ed037</sys_scope>
+        <sys_update_name>sys_embedded_help_role_99ef1bb707011110609af0269c1ed03f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-08 16:52:26</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

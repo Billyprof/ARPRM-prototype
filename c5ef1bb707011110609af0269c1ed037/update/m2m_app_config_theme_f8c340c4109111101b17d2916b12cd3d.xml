@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-08 19:29:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f8c340c4109111101b17d2916b12cd3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="ARPRM" source="x_844314_arprm">c5ef1bb707011110609af0269c1ed037</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARPRM">c5ef1bb707011110609af0269c1ed037</sys_scope>
+        <sys_update_name>m2m_app_config_theme_f8c340c4109111101b17d2916b12cd3d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-08 19:29:11</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">78c340c4459111102db6595f83d8a53d</theme>
+        <ux_app_configuration display_value="ARPRM Config">b4c340c4a4911110211517618309dc3d</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="ARPRM Config">b4c340c4a4911110211517618309dc3d</app_config>
+        <description/>
+        <fields/>
+        <icon>paperclip-outline</icon>
+        <name>Attachment</name>
+        <optional_parameters/>
+        <order>1</order>
+        <parent_macroponent display_value="Record">558adc930f0210107d20409dc4767e84</parent_macroponent>
+        <parent_macroponent_composition_element_id>contextual_sidebar</parent_macroponent_composition_element_id>
+        <route_type>attachmenttab</route_type>
+        <screen_type display_value="Attachment">747828db0f0210107d20409dc4767eb5</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-08 19:29:10</sys_created_on>
+        <sys_id>70c340c458911110813f0233cae5f63d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachment</sys_name>
+        <sys_package display_value="ARPRM" source="x_844314_arprm">c5ef1bb707011110609af0269c1ed037</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARPRM">c5ef1bb707011110609af0269c1ed037</sys_scope>
+        <sys_update_name>sys_ux_app_route_70c340c458911110813f0233cae5f63d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-08 19:29:10</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=70c340c458911110813f0233cae5f63d"/>
+</record_update>

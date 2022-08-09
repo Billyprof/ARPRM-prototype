@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>b4c340c4a4911110211517618309dc3d</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>arprm</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-08 19:29:11</sys_created_on>
+        <sys_id>74c340c485911110ed0f56384e8b293d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ARPRM</sys_name>
+        <sys_package display_value="ARPRM" source="x_844314_arprm">c5ef1bb707011110609af0269c1ed037</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARPRM">c5ef1bb707011110609af0269c1ed037</sys_scope>
+        <sys_update_name>sys_ux_page_registry_74c340c485911110ed0f56384e8b293d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-08 19:29:11</sys_updated_on>
+        <title>ARPRM</title>
+    </sys_ux_page_registry>
+</record_update>
